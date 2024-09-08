@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://yescoiin.github.io/sitemap/sitemap_index.txt
